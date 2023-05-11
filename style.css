@@ -1,0 +1,43 @@
+body{
+    background-image: url('./images/R.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+
+.containerdiali {
+  width: 100%;
+  display: flex;
+  margin-top: 5%;
+}
+
+.smiytiwtext {
+  -ms-flex: 1; /* IE 10 */
+  flex: 1;
+}
+
+
+.tswirti {
+    -ms-flex: 1; /* IE 10 */
+    flex: 1;
+  }
+
+  .MaPhoto{
+    width:     70%;
+    object-fit: contain;
+  }
+  
+
+  .ConainerFormaPro {
+    width: 100%;
+    display: flex;  
+    background-color: rgba(0,0,0,0.6); 
+    padding: 5%;/* Black background with opacity */
+  }
+
+
+  .Proffessionnelle{
+    margin-left: 2%;
+    border-left: 1px solid;
+    padding-left: 2%;
+  }
